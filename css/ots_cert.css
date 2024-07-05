@@ -167,4 +167,9 @@ p{
         width: 60%;
         left: 23%;
     }
+
+    canvas{
+        width: 100%;
+        margin-top: 40px;
+    }
 }
