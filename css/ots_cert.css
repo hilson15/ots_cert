@@ -113,6 +113,24 @@ p{
     font-size: 18px;
     margin-left: 10px;
 }
+.qr-code {
+    margin-top: -10px;
+    
+    
+    
+}
+.qr-code img{
+    margin-right: 48px;
+}
+#verify_portal{
+    font-size: 12px;
+    text-align: center;
+}
+
+#verify_portal span{
+    font-weight: 900;
+}
+
 
 
 
@@ -175,5 +193,15 @@ p{
     .qr-code {
         margin-top: 20px;
         
+    }
+    .qr-code img{
+        width: 70%;
+        margin-left: 20px;
+    }
+
+    #verify_portal{
+        font-size: 8px;
+        font-weight: 900;
+       
     }
 }
