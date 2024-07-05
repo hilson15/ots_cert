@@ -168,8 +168,12 @@ p{
         left: 23%;
     }
 
-    canvas{
+    /* canvas{
         width: 100%;
         margin-top: 40px;
+    } */
+    .qr-code {
+        margin-top: 20px;
+        
     }
 }
